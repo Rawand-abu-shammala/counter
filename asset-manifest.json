@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rawand-abu-shammala/counter.git/static/css/main.d7544b3f.css",
+    "main.js": "/Rawand-abu-shammala/counter.git/static/js/main.a1b16cea.js",
+    "index.html": "/Rawand-abu-shammala/counter.git/index.html",
+    "main.d7544b3f.css.map": "/Rawand-abu-shammala/counter.git/static/css/main.d7544b3f.css.map",
+    "main.a1b16cea.js.map": "/Rawand-abu-shammala/counter.git/static/js/main.a1b16cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7544b3f.css",
+    "static/js/main.a1b16cea.js"
+  ]
+}
